@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, error in Tcl procedures.  The `badproc` procedure is missing an `else` clause in its `if` statement, which can lead to unexpected behavior. The solution demonstrates the correct way to write the procedure.
